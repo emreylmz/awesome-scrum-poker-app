@@ -1,0 +1,6 @@
+[submodule "awesome-scrum-poker"]
+	path = awesome-scrum-poker
+	url = https://github.com/emreylmz/awesome-scrum-poker
+[submodule "awesome-scrum-poker-backend"]
+	path = awesome-scrum-poker-backend
+	url = https://github.com/emreylmz/awesome-scrum-poker-backend
